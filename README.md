@@ -97,11 +97,7 @@
 
 <p >
 
-[![Linkedin Badge](https://img.shields.io/badge/-yash-raj-hans-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yash-raj-hans-7827a3224/)](https://www.linkedin.com/in/yash-raj-hans-7827a3224/)
-[![Instagram Badge](https://img.shields.io/badge/-yash-raj-hans-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/real_rajhans/)](https://www.instagram.com/real_rajhans/)
 
-[![Gmail Badge](https://img.shields.io/badge/yashhans479@gmail.com-white?style=for-the-badge&logo=Gmail&logoColor=&link=mailto:yashhans479@gmail.com)](mailto:yashhans479@gmail.com)
-[![LeetCode Badge](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06&link=leetcode.com/yash_rajhans/)](leetcode.com/yash_rajhans/)
 
  </p>
 </br>
