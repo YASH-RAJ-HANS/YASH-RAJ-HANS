@@ -107,6 +107,9 @@
 > ⚠️ **Note**: Most of my contributions are in private repositories due to ongoing enterprise projects.  
 > 🔐 GitHub stats above include **all private contributions and commit activity**.
 
+![image](https://github.com/user-attachments/assets/f9139544-8709-426b-b2e9-1f916ad51b01)
+
+
 ---
 
 ## 🚀 Highlight Projects
