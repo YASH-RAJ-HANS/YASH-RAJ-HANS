@@ -1,118 +1,149 @@
-<!-- <img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.angularminds.com%2Fblog%2Farticle%2Ftop-web-development-stack-for-developers.html&psig=AOvVaw2hHhLlOInaYreFo0hLtj5j&ust=1668086174941000&source=images&cd=vfe&ved=0CA0QjRxqGAoTCLiw7riXofsCFQAAAAAdAAAAABCkAw"> -->
+<h1 align="center">Hi 👋, I'm Yash Raj Hans</h1>
 
-<h1 align="center"> Hey, I am Yash Raj Hans</h1>
-<!-- h -->
-<span style="color:#39FF14"><h2 align="center" color="#39FF14"> Front-end Web Developer | Competitive Enthusiast </h2></span>
+<h3 align="center">Software Engineer | Backend Specialist | Cloud & System Design Enthusiast</h3>
 
-<div>
-<img align="right" alt="coding" width="350" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
-</div>
-<h2>
-
-🙋🏻‍♂️ About Me
-
-</h2>
-<span style="font-size: 18px">
-<p >
-
-- 👨‍🎓 B.Tech Sophomore major in **Information Technology**
-
-- 👨‍💻 Currently working on **DSA And Development**
-
-- 🤝🏼 Open for Collaborations
- 
--  📫 How to reach me **yashhans479@gmail.com**
- 
-- 🙂 Fond of **programming,sketching,standup comedy,movies,web-series**
-
-
-
+<p align="center">
+  <a href="mailto:yashhans479@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/yash-raj-hans-7827a3224"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/YASH-RAJ-HANS"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/yrhcode4U"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 </p>
-</span>
-</br>
 
-<h3>
+---
 
-🌍 Language I use:
+## 👨‍💻 About Me
 
-</h3>
+- 🔭 Currently working as **Java Backend Developer at Octro Inc.** (5M+ users product)
+- 🚀 Previously led backend development at **AceHub.ai (Neugence Technologies Pvt. Ltd.)**
+- 💻 Experienced in building scalable systems using **Java, Spring Boot, Python, Flask, Redis, WebSockets**
+- ☁️ Skilled in **AWS**, CI/CD, and Docker for cloud-native architecture
+- 📚 700+ DSA problems solved on LeetCode | 1800+ rated
+- 🧠 Strong focus on **System Design, API Integrations, Microservices, and Real-time Architecture**
+- 🏆 2nd Runner-up @ **Rajasthan Police Hackathon 1.0 (2024)** and @ **HackOverflow 4.0 (2022)**
 
-<p >
- 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+---
+
+## 🚀 Technologies I Work With
+
+### 🧠 Programming Languages  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-<!-- ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) -->
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
- 
-<h3>
+---
 
-🦾 FrameWorks & Libraries I use:
+### 🔧 Backend Frameworks & Tools  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-</h3>
- 
-<p>
- 
+---
 
-![Express](https://img.shields.io/badge/Express.js-white?style=for-the-badge&logo=express&logoColor=black)
+### 🎨 Frontend Libraries & Frameworks  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zustand&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
-</p>
+---
 
-<h3>
+### ☁️ Cloud & DevOps  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-007ACC?style=for-the-badge&logo=azurepipelines&logoColor=white)
 
-📊 Databases I use:
+---
 
-</h3>
-<p>
- 
+### 🗄️ Databases  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
+---
+
+### 🧪 Testing & API Tools  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
+
+---
+
+### ⚙️ Tools & Productivity  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=notion&logoColor=white)
+
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YASH-RAJ-HANS&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YASH-RAJ-HANS&layout=compact&theme=algolia&hide=c%2B%2B" height="180px"/>
 </p>
 
-<h3>
-
-🛠️ Tools I use:
-
-</h3>
-
-![Git](https://img.shields.io/badge/-git-F1502F?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-E95420?style=for-the-badge&logo=Postman&logoColor=white)
-
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YASH-RAJ-HANS&theme=cobalt" />
 </p>
-</br>
-<h2>💬 Want To Contact Me? </h2>
 
-<p >
-
-
-
- </p>
-</br>
-<h2>📈 Github Stats</h2>
-
-<p >
- 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=YASH-RAJ-HANS&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-<a href="https://github.com/YASH-RAJ-HANS">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YASH-RAJ-HANS&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YASH-RAJ-HANS&theme=algolia&hide=c%2B%2B&layout=compact"/>
-</a>
- 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=YASH-RAJ-HANS&theme=cobalt)](https://git.io/streak-stats)
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YASH-RAJ-HANS&theme=github-compact" />
 </p>
+
+> ⚠️ **Note**: Most of my contributions are in private repositories due to ongoing enterprise projects.  
+> 🔐 GitHub stats above include **all private contributions and commit activity**.
+
+---
+
+## 🚀 Highlight Projects
+
+### [Acehub.ai](https://acehub.ai)
+> AI-powered upskilling platform for 1000+ users  
+> `React, Tailwind, TypeScript, Flask, FastAPI, WebSocket, Redis`
+
+- Real-time Feed, Markdown Editor, Slack Webhooks
+- Payment integration via Razorpay
+- Backend scalable for 10k+ users
+
+### Snip Savvy
+> Real-time code snippet sharing platform  
+> `Next.js, Node.js, TypeScript, Redux, PostgreSQL`
+
+- Built collaborative editor with optimized code search
+- Reduced search latency by 50%
+
+---
+
+## 🏆 Achievements
+
+- 🥈 **2nd Runner-up** @ Rajasthan Police Hackathon 1.0 – ₹25,000 prize  
+- 🥉 **3rd Place** @ HackOverflow 4.0 CU – ₹30,000 prize  
+- 🧠 **700+ LeetCode problems solved**, 1800+ rating  
+- 📚 Consistently mentoring juniors in **DSA and System Design**
+
+---
+
+## 📫 Get in Touch
+
+📧 **Email**: yashhans479@gmail.com  
+📞 **Phone**: +91 6200134722  
+🌐 **LinkedIn**: [linkedin.com/in/yash-raj-hans-7827a3224](https://www.linkedin.com/in/yash-raj-hans-7827a3224)  
+🐙 **GitHub**: [github.com/YASH-RAJ-HANS](https://github.com/YASH-RAJ-HANS)
+
+---
+
+_Thanks for visiting!_ 😊
