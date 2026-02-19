@@ -143,7 +143,6 @@
 ## 📫 Get in Touch
 
 📧 **Email**: yashhans479@gmail.com  
-📞 **Phone**: +91 6200134722  
 🌐 **LinkedIn**: [linkedin.com/in/yash-raj-hans-7827a3224](https://www.linkedin.com/in/yash-raj-hans-7827a3224)  
 🐙 **GitHub**: [github.com/YASH-RAJ-HANS](https://github.com/YASH-RAJ-HANS)
 
